@@ -111,7 +111,7 @@ Anyway, let's skip the cringe and stick to facts: what I implemented, I like it 
 
 
 ## 📖 LORE HEROES
-[Читать здесь →](./LORE_HEROES.md)
+[read here→](./LORE_HEROES.md)
 
 ---
 
