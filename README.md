@@ -110,7 +110,8 @@ Anyway, let's skip the cringe and stick to facts: what I implemented, I like it 
 - Defeating the boss = game completion with congratulations
 
 
-# [📖 Лор персонажей](./LORE.md)
+## 📖 LORE HEROES
+[Читать здесь →](./LORE_HEROES.md)
 
 ---
 
