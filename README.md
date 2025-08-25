@@ -28,6 +28,7 @@ cd Traveler-vs-demons-TEXT_RPG-
 3. 
 # Если используете g++
 g++ main.cpp Characters.cpp -o game.exe - создание исполняемого файла название выбираете сами)
+
 ./game.exe - исполняемый файл
 
 ##⚔️ Как играть
