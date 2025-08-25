@@ -64,6 +64,6 @@ $$$ ДОБАВЛЕНИЕ СУНДУКОВ И ЛУТА
 🤝 Контакты
 
 Автор: FELONINE
-
+ТГШКА: @WhiteKatanV_BloodyGuys
 GitHub: https://github.com/felonine
 
